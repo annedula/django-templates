@@ -4,6 +4,7 @@
 **Activity:** Week 14 — Django Templates (DTL)
 
 **Name:** Jenny Anne R. Dula
+
 **Block:** 3.1 BSIT
 
 ## Overview
