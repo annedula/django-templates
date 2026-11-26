@@ -1,9 +1,9 @@
 # Campus Portal — Django Templates Laboratory Activity
 
 **Course:** Python Programming 2 (PC15)  
-**Activity:** Week 14 — Django Templates (DTL), Template Inheritance, & Static Assets  
-**Student:** [Your Name]  
-**Section:** [Your Section]
+**Activity:** Week 14 — Django Templates (DTL)
+**Name:** Jenny Anne R. Dula
+**Block:** 3.1 BSIT
 
 ## Overview
 
